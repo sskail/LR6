@@ -17,7 +17,7 @@
 
 ![Git settings](screenshots/Screenshot_001.png)
 
-Командой _git clone клонировал удаленный репозиторий на компьютер 
+Командой _git clone_ клонировал удаленный репозиторий на компьютер 
 
 ![Git clone](screenshots/Screenshot_1.png)
 
@@ -25,7 +25,7 @@
 
 ![Новый файл](screenshots/Screenshot_2.png)
 
-Пользуясь командой _git pull _ загрузил изменения из удалённого репозитория в локальный
+Пользуясь командой _git pull_ загрузил изменения из удалённого репозитория в локальный
 
 ![Git pull](screenshots/Screenshot_3.png)
 
